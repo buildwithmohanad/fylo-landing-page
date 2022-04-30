@@ -28,7 +28,7 @@
 
   /* landing */
   section.landing {
-    @apply bg-landingSmallBg bg-no-repeat bg-contain bg-bottom h-full flex-grow flex flex-col justify-center md:bg-landingBigBg items-center text-center px-6 sm:px-16 md:px-36 lg:px-[15rem] xl:px-[16rem];
+    @apply bg-[url('/images/bg-curvy-mobile.svg')] bg-no-repeat bg-contain bg-bottom h-full flex-grow flex flex-col justify-center md:bg-[url('/images/bg-curvy-desktop.svg')] items-center text-center px-6 sm:px-16 md:px-36 lg:px-[15rem] xl:px-[16rem];
 
     background-size: 125% 28rem;
   }

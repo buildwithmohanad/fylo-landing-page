@@ -20,10 +20,6 @@ module.exports = {
           error: "hsl(0, 100%, 63%)",
         },
       },
-      backgroundImage: {
-        'landingSmallBg': "url('/images/bg-curvy-mobile.svg')",
-        'landingBigBg': "url('/images/bg-curvy-desktop.svg')"
-      }
     },
   },
   variants: {
