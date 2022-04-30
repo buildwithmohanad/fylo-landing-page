@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://ux.plerdy.com/screens/2022-04-30/8457b220c9f692d221af82150b471515.jpeg)
 
 ### Links
 
 - Solution URL: [click here](https://github.com/Mohannad-AlDardiri/fylo-landing-page)
-- Live Site URL: [click here](https://your-live-site-url.com)
+- Live Site URL: [click here](https://mohannad-aldardiri.github.io/fylo-landing-page/)
 
 ## My process
 
@@ -39,14 +39,11 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- [Tailwind css](https://tailwindcss.com/) - For styles
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Mohannad-AlDardiri](https://www.frontendmentor.io/profile/Mohannad-AlDardiri)
+- Twitter - [@MohanadDardiry](https://www.twitter.com/MohanadDardiry)
 
 
