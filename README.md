@@ -10,7 +10,6 @@ This is a solution to the [Fylo dark theme landing page challenge on Frontend Me
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-- [Author](#author)
 
 ## Overview
 
@@ -27,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [click here](https://github.com/Mohannad-AlDardiri/fylo-landing-page)
-- Live Site URL: [click here](https://mohannad-aldardiri.github.io/fylo-landing-page/)
+- Solution URL: [click here](https://github.com/ahmed-eldardeery/fylo-landing-page)
+- Live Site URL: [click here](https://ahmed-eldardeery.github.io/fylo-landing-page/)
 
 ## My process
 
@@ -40,10 +39,5 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - [Tailwind css](https://tailwindcss.com/) - For styles
-
-## Author
-
-- Frontend Mentor - [@Mohannad-AlDardiri](https://www.frontendmentor.io/profile/Mohannad-AlDardiri)
-- Twitter - [@MohanadDardiry](https://www.twitter.com/MohanadDardiry)
 
 
