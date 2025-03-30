@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [click here](https://github.com/ahmed-eldardeery/fylo-landing-page)
-- Live Site URL: [click here](https://ahmed-eldardeery.github.io/fylo-landing-page/)
+- Solution URL: [click here](https://github.com/buildwithmohanad/fylo-landing-page)
+- Live Site URL: [click here](https://buildwithmohanad.github.io/fylo-landing-page/)
 
 ## My process
 
